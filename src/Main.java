@@ -8,9 +8,9 @@ public class Main {
                 + " максимальное значение "  + Integer.MAX_VALUE);
         System.out.println("Для long минимальное занчение " + Long.MIN_VALUE
                 + " максимальное значение "  + Long.MAX_VALUE);
-        System.out.println("Для float минимальное занчение " + Float.MIN_VALUE
+        System.out.println("Для float минимальное занчение " + -Float.MAX_VALUE
                 + " максимальное значение "  + Float.MAX_VALUE);
-        System.out.println("Для double минимальное занчение " + Double.MIN_VALUE
+        System.out.println("Для double минимальное занчение " + -Double.MAX_VALUE
                 + " максимальное значение "  + Double.MAX_VALUE);
     }
 }
